@@ -1,0 +1,85 @@
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\PuzzleOyunu.exe.config
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\PuzzleOyunu.exe
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\PuzzleOyunu.pdb
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.csprojAssemblyReference.cache
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.Form1.resources
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.Properties.Resources.resources
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.csproj.GenerateResource.cache
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.csproj.CoreCompileInputs.cache
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.exe
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.pdb
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.csproj.CopyComplete
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x64\concrt140.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x64\cvextern.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x64\msvcp140.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x64\vcruntime140.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x86\concrt140.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x86\cvextern.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x86\msvcp140.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x86\vcruntime140.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\ZedGraph.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\ZedGraph.xml
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\yagmur\Desktop\yazlab\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x64\concrt140.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x64\cvextern.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x64\msvcp140.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x64\vcruntime140.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x86\concrt140.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x86\cvextern.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x86\msvcp140.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\x86\vcruntime140.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\PuzzleOyunu.exe.config
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\PuzzleOyunu.exe
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\PuzzleOyunu.pdb
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\Emgu.CV.World.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\OpenCvSharp.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\OpenCvSharp.Gpu.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\ZedGraph.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\Emgu.CV.World.xml
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\ZedGraph.xml
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.csprojAssemblyReference.cache
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.Form1.resources
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.Properties.Resources.resources
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.csproj.GenerateResource.cache
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.csproj.CopyComplete
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.exe
+C:\Users\Doğukan Berber\Desktop\puzzleOyunu\PuzzleOyunu\PuzzleOyunu\obj\Debug\PuzzleOyunu.pdb
